@@ -1,0 +1,8 @@
+var a,b,   temp; 
+if(a>=b)then
+temp := 100; ELSE %inthiscaseamustbelessthanb% begin
+     TEMP :=200 ; 
+a:=(a+b)*temp/(10/2);
+        b:=b/33;%this division should be OK%
+    end
+end

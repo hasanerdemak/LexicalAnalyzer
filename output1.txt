@@ -1,0 +1,17 @@
+Next token is RES_WORD        Next lexeme is while
+Next token is LPARANT         Next lexeme is (
+Next token is identifier      Next lexeme is a
+Next token is ADD             Next lexeme is +
+Next token is identifier      Next lexeme is b
+Next token is GREATER         Next lexeme is >
+Next token is INT_LIT         Next lexeme is 0
+Next token is RPARANT         Next lexeme is )
+Next token is RES_WORD        Next lexeme is begin
+Next token is identifier      Next lexeme is temp
+Next token is ASSIGNM         Next lexeme is :=
+Next token is identifier      Next lexeme is temp
+Next token is ADD             Next lexeme is +
+Next token is INT_LIT         Next lexeme is 1
+Next token is SEMICOLON       Next lexeme is ;
+Next token is RES_WORD        Next lexeme is end
+Next token is EOF             Next lexeme is end of file

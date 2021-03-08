@@ -1,0 +1,9 @@
+program sample1
+    var a,b,   temp, Istanbul123456789: integer; %
+declaring variables %
+    a := 67;
+    b:= 66;
+if(a!b)then
+temp := 100;%inthiscaseamustbelessthanb%
+
+end

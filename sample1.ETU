@@ -1,0 +1,18 @@
+% the source code of a program
+written in EtuLang%
+program sample1
+var a,b, temp, Istanbul123456789: integer; %
+declaring variables %
+a := 67;
+b:= 66;
+if (a >= b ) then
+temp := 100;
+ELSE % in this case a must be less than b %
+begin
+TEMP := 200;
+a := (a + b) * temp / (10/2);
+b := b / 33; %this division should be OK%
+end
+while (a-b > 0)
+begin temp := temp + 1; end
+end

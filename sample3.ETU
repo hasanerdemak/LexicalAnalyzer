@@ -1,0 +1,6 @@
+program sample1
+    var a,b,   temp, Istanbul123456789: integer; %
+declaring variables %
+    a := 67   ;
+    b:=66;
+end
